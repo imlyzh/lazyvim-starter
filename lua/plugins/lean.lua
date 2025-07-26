@@ -1,6 +1,6 @@
 return {
   {
-    "leanprover/lean.nvim",
+    "Julian/lean.nvim",
     ft = "lean",
     opts = nil,
   },
